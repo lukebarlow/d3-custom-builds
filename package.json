@@ -1,0 +1,12 @@
+{
+  "name": "d3_custom_builds",
+  "description": "Makefile configurations for custom d3 builds for forkaudio projects",
+  "version": "0.1.0",
+  "dependencies": {
+      "d3": "3",
+      "queue-async": "1",
+      "smash": "0",
+      "topojson": "1",
+      "uglify-js": "2"
+  }
+}
