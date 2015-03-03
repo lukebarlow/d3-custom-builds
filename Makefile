@@ -13,16 +13,21 @@ D3_FOR_PRONG_FILES = \
 	node_modules/d3/src/start.js \
 	node_modules/d3/src/arrays/mean.js \
 	node_modules/d3/src/arrays/sum.js \
+	node_modules/d3/src/arrays/max.js \
+	node_modules/d3/src/arrays/min.js \
 	node_modules/d3/src/arrays/set.js \
+	node_modules/d3/src/arrays/nest.js \
 	node_modules/d3/src/scale/linear.js \
 	node_modules/d3/src/scale/log.js \
+	node_modules/d3/src/scale/category.js \
 	node_modules/d3/src/svg/area.js \
 	node_modules/d3/src/svg/line.js \
 	node_modules/d3/src/svg/axis.js \
 	node_modules/d3/src/svg/arc.js \
 	node_modules/d3/src/behavior/drag.js \
 	node_modules/d3/src/selection/selection.js \
-	node_modules/d3/src/event/dispatch.js \
+	node_modules/d3/src/event/*.js \
+	node_modules/d3/src/xhr/json.js \
 	end.js
 
 
